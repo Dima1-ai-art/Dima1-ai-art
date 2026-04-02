@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Дмитрий 👋
 
-<!--
-**Dima1-ai-art/Dima1-ai-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий Python-разработчик. Мне 14 лет, и я учусь создавать бэкенд-приложения и телеграм-ботов.
 
-Here are some ideas to get you started:
+## Мои проекты
+- [VPN Telegram Bot](https://github.com/Dima1-ai-art/vpn-bot-) — бот для подбора VPN под Android и iOS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+Python, aiogram, FastAPI (в процессе), PostgreSQL (в процессе), Git, Docker (в планах).
+
+## Контакты
+- Telegram: @yesnoonse
+- Email: Sergienkodimon1@gmail.com
+
+## Статистика
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dima1-ai-art&show_icons=true&theme=dark)
