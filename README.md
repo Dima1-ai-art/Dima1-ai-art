@@ -13,4 +13,4 @@ Python, aiogram, FastAPI (в процессе), PostgreSQL (в процессе)
 - Email: Sergienkodimon1@gmail.com
 
 ## Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dima1-ai-art&show_icons=true&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dima1-ai-art&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=Dima1-ai-art)
