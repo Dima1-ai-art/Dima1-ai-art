@@ -4,7 +4,8 @@
 
 ## Мои проекты
 - [VPN Telegram Bot](https://github.com/Dima1-ai-art/vpn-bot-) — бот для подбора VPN под Android и iOS.
-
+- [🐍 Змейка](https://github.com/Dima1-ai-art/snake-game)
+- [🧮 Math Pro](https://github.com/Dima1-ai-art/math-pro)
 ## Стек
 Python, aiogram, FastAPI (в процессе), PostgreSQL (в процессе), Git, Docker (в планах).
 
